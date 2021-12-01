@@ -15,6 +15,7 @@
   "author": "Andi N. Dirgantara",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.24.0",
     "body-parser": "^1.10.1",
     "express": "^4.10.7"
   }
